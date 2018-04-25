@@ -3,5 +3,5 @@
 
 # This is final project with group memebers Andrew, Brian, David, Freddy, and Tracy developed in python.
 
-# This program is to sold the minimum spanning tree (MST) using Prim's or Kruskal's algorithm. 
+# This program is to solve the minimum spanning tree (MST) using Prim's or Kruskal's algorithm. 
 # Preferably allowing the user to define which method.  
